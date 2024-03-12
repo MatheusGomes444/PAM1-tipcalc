@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipCalc", "TipCalc\TipCalc.csproj", "{EB973DD8-554A-4B41-83CC-AF4ED916D34D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB973DD8-554A-4B41-83CC-AF4ED916D34D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB973DD8-554A-4B41-83CC-AF4ED916D34D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB973DD8-554A-4B41-83CC-AF4ED916D34D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EB973DD8-554A-4B41-83CC-AF4ED916D34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB973DD8-554A-4B41-83CC-AF4ED916D34D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB973DD8-554A-4B41-83CC-AF4ED916D34D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D934D49-72D4-4273-9519-9984F3381A13}
+	EndGlobalSection
+EndGlobal
